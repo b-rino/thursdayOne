@@ -1,2 +1,3 @@
 # thursdayTwo
-Benjamin Rino  cph-br127@cphbusiness.dk
+Name: Benjamin Rino  
+E-mail: cph-br127@cphbusiness.dk
